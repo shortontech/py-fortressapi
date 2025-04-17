@@ -1,0 +1,11 @@
+**/*.pyc
+**/__pycache__/
+**/*.pyo
+**/*.pyd
+**/*.egg-info/
+**/*.egg
+**/.pytest_cache/
+**/.mypy_cache/
+**/.coverage
+**/.hypothesis/
+**/.tox/
